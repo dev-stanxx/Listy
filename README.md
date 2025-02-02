@@ -8,4 +8,4 @@ This is my first react app.
 
 ```npm run dev ```- to start the server  
 
-> ``` npm build ```- to build for production   
+``` npm build ```- to build for production   
